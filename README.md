@@ -9,6 +9,12 @@
 - 🎓 I'm currently in the sixth period.
 - 📝 Insper Data partner.
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,c,django,docker,eclipse,fastapi,flask,git,java,linux,mysql,nodejs,openstack,regex,tensorflow)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react,js,html,css,c,django,docker,eclipse,fastapi,flask,git,java,linux,mysql,nodejs,openstack,regex,tensorflow,aws" />
+  </a>
+</p>
+
 
 Last Edited on: 06/01/2021
