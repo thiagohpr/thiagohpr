@@ -4,7 +4,7 @@
 **chiphuyen/chiphuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm computer scientist student
+## I'm a computer engineering student
 
 - 🎓 I'm currently in the sixth period.
 - 📝 Insper Data partner.
