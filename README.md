@@ -6,7 +6,7 @@
 
 ## I'm a computer engineering student
 
-- 🎓 I'm currently in the sixth period.
+- 🎓 I'm currently in the seventh period.
 - 📝 Insper Data partner.
 
 <h3 align="left">Languages and Tools:</h3>
