@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,js,html,css,c,c++,django,docker,eclipse,fastapi,flask,git,java,linux,mysql,nodejs,openstack,regex,tensorflow,aws" />
+    <img src="https://skillicons.dev/icons?i=py,react,js,html,css,c,cpp,django,docker,eclipse,fastapi,flask,git,java,linux,mysql,nodejs,openstack,regex,tensorflow,aws" />
   </a>
 </p>
 
