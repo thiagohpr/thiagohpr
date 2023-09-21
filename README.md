@@ -6,8 +6,8 @@
 
 ## I'm a computer engineering student
 
-- 🎓 I'm currently in the seventh period.
-- 📝 Insper Data partner.
+- 🎓 I'm currently in the eighth period.
+- 📝 Former Insper Data President.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
