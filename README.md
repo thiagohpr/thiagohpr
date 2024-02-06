@@ -6,7 +6,7 @@
 
 ## I'm a computer engineering student
 
-- 🎓 I'm currently in the eighth period.
+- 🎓 I'm currently in the ninth period.
 - 📝 Former Insper Data President.
 
 <h3 align="left">Languages and Tools:</h3>
